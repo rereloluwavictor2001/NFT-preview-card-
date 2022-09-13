@@ -1,0 +1,76 @@
+body {
+    padding: 7% 15%;
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 300;
+}
+.image {
+    border-radius: 8px;
+    width: 300px;
+    height: 300px;
+}
+#icon {
+    transform: translate(0, 120px);
+}
+.icon-div {
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 8px;
+    width: 300px;
+    height: 300px;
+    position:absolute;
+    opacity: 0;
+}
+.icon-div:hover{
+    background-color: hsl(178, 100%, 50%);
+    opacity: 0.5;
+}
+p {
+    color: white;
+    margin-top: 20px;
+}
+p:hover {
+    color:hsl(178, 100%, 50%);
+}
+#equilibrium {
+    font-size: 18px;
+    font-weight:600;
+}
+.equilibrium {
+    padding-bottom: 20px;
+}
+.row-icon {
+    margin-bottom: 5px;
+}
+.container{
+    border-radius: 8px;
+    background-color: hsl(216, 50%, 16%);
+    padding: 20px;
+    width: 340px;
+}
+.colored {
+    color:hsl(215, 51%, 70%)
+   
+}
+.day-text {
+    text-align: right;
+    font-weight:400;
+}
+.eth-text {
+    color: hsl(178, 100%, 50%);
+    font-weight:400;
+}
+.avatar-img {
+    width: 15%;
+    float: left;
+    margin-right: 10px;
+}
+.avatar-text {
+    padding-top: 8px;
+    font-weight: 400;
+}
+hr {
+    color: hsl(215, 32%, 27%);
+    height: 2px;
+
+}
