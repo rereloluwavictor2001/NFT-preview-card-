@@ -5,9 +5,9 @@ body {
     font-weight: 300;
 }
 .image {
-    border-radius: 8px;
-    width: 300px;
-    height: 300px;
+    border-radius: 0.5rem;
+    width: 18.75rem;
+    height: 18.75rem;
 }
 #icon {
     transform: translate(0, 120px);
@@ -15,9 +15,9 @@ body {
 .icon-div {
     text-align: center;
     vertical-align: middle;
-    border-radius: 8px;
-    width: 300px;
-    height: 300px;
+    border-radius: 0.5rem;
+    width: 18.75rem;
+    height: 18.75rem;
     position:absolute;
     opacity: 0;
 }
@@ -27,26 +27,26 @@ body {
 }
 p {
     color: white;
-    margin-top: 20px;
+    margin-top: 1.25rem;
 }
 p:hover {
     color:hsl(178, 100%, 50%);
 }
 #equilibrium {
-    font-size: 18px;
-    font-weight:600;
+    font-size: 1.125rem;
+    font-weight: 600;
 }
 .equilibrium {
-    padding-bottom: 20px;
+    padding-bottom: 1.25rem;
 }
 .row-icon {
-    margin-bottom: 5px;
+    margin-bottom: 0.313rem;
 }
 .container{
-    border-radius: 8px;
+    border-radius: 0.5rem;
     background-color: hsl(216, 50%, 16%);
-    padding: 20px;
-    width: 340px;
+    padding: 1.25rem;
+    width: 21.25rem;
 }
 .colored {
     color:hsl(215, 51%, 70%)
@@ -54,23 +54,23 @@ p:hover {
 }
 .day-text {
     text-align: right;
-    font-weight:400;
+    font-weight: 400;
 }
 .eth-text {
     color: hsl(178, 100%, 50%);
-    font-weight:400;
+    font-weight: 400;
 }
 .avatar-img {
     width: 15%;
     float: left;
-    margin-right: 10px;
+    margin-right: 0.625rem;
 }
 .avatar-text {
-    padding-top: 8px;
+    padding-top: 0.5rem;
     font-weight: 400;
 }
 hr {
     color: hsl(215, 32%, 27%);
-    height: 2px;
+    height: 0.125rem;
 
 }
