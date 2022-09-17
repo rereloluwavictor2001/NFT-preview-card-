@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/FireShot Capture 002 - Frontend Mentor - NFT preview card component - rereloluwavictor2001.github.io.png)
+![image](https://user-images.githubusercontent.com/71636617/190833104-81816c48-ba2d-4aab-83d4-3700739ab6b2.png)
 
 
 ### Links
