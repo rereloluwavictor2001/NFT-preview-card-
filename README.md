@@ -96,8 +96,8 @@ I still need to get more comfortable with bootstrap and css3 as I progress in th
 
 ## Author
 
-- Frontend Mentor - [my username](https://www.frontendmentor.io/profile/rereloluwavictor2001)
-- Twitter - [check my profile here](https://www.twitter.com/rereloluwaalimi)
+- Frontend Mentor - [@rereloluwavictor2001](https://www.frontendmentor.io/profile/rereloluwavictor2001)
+- Twitter - [@rereloluwaalimi](https://www.twitter.com/rereloluwaalimi)
 
 
 
