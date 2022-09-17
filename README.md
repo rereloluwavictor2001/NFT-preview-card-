@@ -29,9 +29,24 @@ Users should be able to:
 
 ### Screenshot
 
-![image](https://user-images.githubusercontent.com/71636617/190833191-72785faa-d2f1-40d0-84e8-8dd4fc81aa35.png)
+- Active State
+
+![image](https://github.com/rereloluwavictor2001/NFT-preview-card-/blob/main/design/active-states.jpg)
 
 
+- Desktop Design
+
+![image](https://github.com/rereloluwavictor2001/NFT-preview-card-/blob/main/design/desktop-design.jpg)
+
+
+- Desktop Preview
+
+![image](https://github.com/rereloluwavictor2001/NFT-preview-card-/blob/main/design/desktop-preview.jpg)
+
+
+- Mobile Design
+
+![image](https://github.com/rereloluwavictor2001/NFT-preview-card-/blob/main/design/mobile-design.jpg)
 ### Links
 
 - Solution URL: [Check solution here](https://github.com/rereloluwavictor2001/NFT-preview-card-)
