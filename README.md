@@ -29,13 +29,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/FireShot Capture 002 - Frontend Mentor - NFT preview card component - rereloluwavictor2001.github.io.png)
+![](images/FireShot Capture 002 - Frontend Mentor - NFT preview card component - rereloluwavictor2001.github.io.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/rereloluwavictor2001/NFT-preview-card-)
-- Live Site URL: [Add live site URL here](https://github.com/rereloluwavictor2001/NFT-preview-card-/)
+- Solution URL: [Check solution here](https://github.com/rereloluwavictor2001/NFT-preview-card-)
+- Live Site URL: [The Live site](https://rereloluwavictor2001.github.io/NFT-preview-card-/)
 
 ## My process
 
@@ -75,14 +75,14 @@ I still need to get more comfortable with bootstrap and css3 as I progress in th
 
 ### Useful resources
 
-- [Example resource 1](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12374120?start=0#search) - This helped me with html 5, css3 ad bootstrap 4. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.getbootstrap.com) - This is an amazing article which helped me finally understand bootstrap 4 and how to use it properly. I'd recommend it to anyone still learning this concept.
+- [The complete web development bootcamp 2022](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12374120?start=0#search) - This helped me with html 5, css3 ad bootstrap 4. I really liked this pattern and will use it going forward.
+- [Bootstrap 4](https://www.getbootstrap.com) - This is an amazing article which helped me finally understand bootstrap 4 and how to use it properly. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rereloluwavictor2001)
-- Twitter - [@yourusername](https://www.twitter.com/rereloluwaalimi)
+- Frontend Mentor - [my username](https://www.frontendmentor.io/profile/rereloluwavictor2001)
+- Twitter - [check my profile here](https://www.twitter.com/rereloluwaalimi)
 
 
 
