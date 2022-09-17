@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![image](https://user-images.githubusercontent.com/71636617/190833104-81816c48-ba2d-4aab-83d4-3700739ab6b2.png)
+![image](https://user-images.githubusercontent.com/71636617/190833191-72785faa-d2f1-40d0-84e8-8dd4fc81aa35.png)
 
 
 ### Links
